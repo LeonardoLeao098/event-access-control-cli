@@ -9,7 +9,7 @@ Repositório com exercícios básicos feitos no início dos meus estudos em C#.
 - leitura de dados
 - parse de tipos
 
-===============================================================================
+============================================================================
 
 # C# - First Steps
 
