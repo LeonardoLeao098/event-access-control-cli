@@ -44,7 +44,7 @@ else if (idade >= 18)
 }
 else if (idade < 18 && (ingresso == "s" || vip == "s"))
 {
-    Console.WriteLine("Não pode passar! Só acompanhado dos pais!");
+    Console.WriteLine("Mas não pode passar! Só acompanhado dos pais!");
 }
 else
 {
