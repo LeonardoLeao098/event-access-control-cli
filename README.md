@@ -5,6 +5,7 @@ Repositório com exercícios básicos feitos no início dos meus estudos em C#.
 ## Conteúdos praticados
 - if / else
 - else if
+- switch case
 - operadores lógicos
 - leitura de dados
 - parse de tipos
@@ -18,6 +19,7 @@ Repository with basic exercises done at the beginning of my C# studies.
 ## Practiced Content
 - if / else
 - else if
+- switch case
 - logical operators
 - data reading
 - type parsing
